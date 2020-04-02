@@ -9,10 +9,10 @@
     },
     {
       "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "Fixed hard drive on workstation 003",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "date": "2020-04-02T12:32:06.400Z"
     },
     {
       "message": "1122 wireless down",
@@ -27,13 +27,6 @@
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2019-05-31T19:57:35.544Z"
-    },
-    {
-      "message": "vvdws",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-04-02T11:23:07.578Z",
-      "id": 5
     }
   ],
   "techs": [
